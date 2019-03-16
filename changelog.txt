@@ -1,0 +1,36 @@
+####Please notice version numbers are perhaps wrong and some of version's additions may be wrong too
+####I didn't mind to create a changelog at the beginning of the mod's developpment 
+
+Version 0.01
+
+Additions:
+--Marble
+--Marble Bricks
+--Chiseled Marble
+--Polished Marble
+
+Version 0.55
+
+Additions:
+--Bread Dough
+--Amaranth Bread Dough
+--Rye Bread Dough
+--Rice Bread Dough
+--Multicereal Dough
+
+Version 0.56
+
+ Additions:
+--Curdled Soy Milk
+--Tofu
+--Cooked Tofu
+
+Version 0.58
+
+Additions:
+--No Additions
+
+Changes:
+--init.lua no longer contains all the mod's content
+
+Version 0.59 coming soon ! :)
